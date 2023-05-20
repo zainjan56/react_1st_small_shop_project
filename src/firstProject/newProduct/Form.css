@@ -1,0 +1,24 @@
+.container-fluid{
+    margin: 0 auto;
+    background-color: #e0e0e0e0;
+    padding-left: 150px;
+    
+}
+
+.container-fluid h2 {
+    text-align: center;
+    margin-right: 200px;
+    background-color: #e0e0e0e0;
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 0.2);
+    border-radius: 50px;
+}
+
+.btn1 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid seagreen ;
+    margin: 1px;
+    border-radius: 15px;
+    background-color: #e0e0e0e0;
+    box-shadow: 10px 10px 10px rgb(0 0 0 / 0.2);
+}
